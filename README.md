@@ -1,11 +1,11 @@
 # Basic Selenium Framework
 
-This is a basic framework for automating web testing using Selenium WebDriver and TestNG. This framework provides a structure and initial setup to quickly and efficiently write and execute automated tests.
+This is a basic framework for automating web testing using Selenium WebDriver and Junit. This framework provides a structure and initial setup to quickly and efficiently write and execute automated tests.
 
 ## Features
 
 - Utilizes Selenium WebDriver for interacting with the web browser.
-- Incorporates TestNG for test execution and management.
+- Incorporates JUnit for test execution and management.
 - Provides a modular structure to organize tests effectively.
 - Includes a configuration file for property management.
 - Contains demonstration test examples to get started.
@@ -38,7 +38,7 @@ cd BasicSeleniumFramework
 
 2. Navigate to the test class you want to execute (e.g., `src/test/java/tests/HomePageTest.java`).
 
-3. Run the test class as a TestNG test.
+3. Run the test class as a Junit test.
 
 ## Contribution
 
@@ -46,7 +46,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 
-[Author's Name](link to GitHub profile) - Short Description
+[Aristides Isaza](link to GitHub profile) - Short Description
 
 ## License
 
